@@ -1,0 +1,5 @@
+{
+  "name": "AI voice",
+  "description": "A text-to-speech application that uses the Gemini API to generate voice-overs with multiple voices and emotions. Users can input text, select a voice and an emotion, and generate high-quality audio.",
+  "requestFramePermissions": []
+}
